@@ -19,6 +19,7 @@
     "next": "13.4.2",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-intersection-observer": "^9.4.3",
     "react-spring": "^9.7.1",
     "three": "^0.152.2",
     "typescript": "5.0.4"
